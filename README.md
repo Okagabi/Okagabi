@@ -1,5 +1,5 @@
 # Sobre mim
-- 👋 Olá, meu nome é Okagabi
+- 👋 Olá, meu nome é Gabrielly.
 - 👀 Estou interessada em aprender a programar novas linguagens.
 - 🌱 Estou aprendendo a programar recentemente a linguagem JavaScript e Scratch.
 
